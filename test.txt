@@ -1,1 +1,3 @@
 Voici une phrase ajoutée pour l’exercice Git.
+BONJOUR PIERRO 
+del PIERRO
